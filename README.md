@@ -1,9 +1,17 @@
-# Solution homework 4 - GROUP #12
+# ADM_HW4
 
-### Our solution to the homework #4
+## Introduction
 
-In this repository you will find the following files with our solutions to homework number 4:
+In the world of banking, data analysis plays a vital role in understanding and serving customers. This project delves into the application of hashing and clustering techniques to extract insights and patterns from customer data and transactions. Let's get started!
+
+## Supporting Functions
 
 - main.ipynb: our solution to questions number 1 and 2;
 - CommandLine.bash: our CommandLine solution
 - Algorithmic_Question_(HW4).ipynb: our solution to the algorithmic question.
+
+## Contributions
+
+- Raymand Shojaie Aghabalaghe
+- Federico Ferazzoli
+- Antonio Trinchini
